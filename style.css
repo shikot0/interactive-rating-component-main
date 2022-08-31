@@ -14,12 +14,12 @@ main {
     height: 100vh;
 }
 #rating-card {
-    width: 320px; 
+    width: 330px; 
     max-width: 90vw;
     border-radius: 25px; 
     padding: 1.4rem;
     display: flex;
-    gap: 1.4rem;
+    gap: 1.1rem;
     flex-direction: column;
     background-image: linear-gradient(to bottom right, hsl(213, 19%, 18%),hsl(216, 12%, 8%));
     transition: .2s;
